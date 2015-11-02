@@ -113,5 +113,5 @@ WikiText;
 wordwarp:
 Help -> Install New Software 
 workwith填写如下信息:
-url：http://ahtik.com/eclipse-update/ 
+http://ahtik.com/eclipse-update/ 
 选择WORDWARP并安装。

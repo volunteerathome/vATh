@@ -1,117 +1,117 @@
-Ê¹ÓÃGIT¿ÉÍ¨¹ı¶àÖÖ·½Ê½½øĞĞĞ­×÷£º
+ä½¿ç”¨GITå¯é€šè¿‡å¤šç§æ–¹å¼è¿›è¡Œåä½œï¼š
 =====
 
-ÍøÒ³ÔÚÏß±à¼­ÎÄµµ
+ç½‘é¡µåœ¨çº¿ç¼–è¾‘æ–‡æ¡£
 
-ECLIPSE¿Í»§¶ËÌá½»±à¼­ÎÄµµ
+ECLIPSEå®¢æˆ·ç«¯æäº¤ç¼–è¾‘æ–‡æ¡£
 
 
-### WIN EclipseÆ½Ì¨£º  
-Ò».JDK
+### WIN Eclipseå¹³å°ï¼š  
+ä¸€.JDK
 
-1.°²×°JDK Ñ¡ÔñºÏÊÊµÄ°æ±¾ 
+1.å®‰è£…JDK é€‰æ‹©åˆé€‚çš„ç‰ˆæœ¬ 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk°²×°1.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdkå®‰è£…1.JPG)  
 
-2.µã»÷ÏÂÒ»²½ 
+2.ç‚¹å‡»ä¸‹ä¸€æ­¥ 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk°²×°2.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdkå®‰è£…2.JPG)  
 
-3.Ñ¡Ôñ°²×°Ä¿Â¼£¨ÕâÀïÊÇÄ¬ÈÏÄ¿Â¼£©  
+3.é€‰æ‹©å®‰è£…ç›®å½•ï¼ˆè¿™é‡Œæ˜¯é»˜è®¤ç›®å½•ï¼‰  
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk°²×°3.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdkå®‰è£…3.JPG)  
 
-4.°²×°JRE  
+4.å®‰è£…JRE  
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk°²×°4.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdkå®‰è£…4.JPG)  
 
-5.Íê³É 
+5.å®Œæˆ 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk°²×°5.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdkå®‰è£…5.JPG)
 
 
-¶ş.ECLIPSE
+äºŒ.ECLIPSE
 
-2.½âÑ¹Eclipse  
-EGITÒÑ¼ÓÈëĞÂ°æEclipseÖĞ 
+2.è§£å‹Eclipse  
+EGITå·²åŠ å…¥æ–°ç‰ˆEclipseä¸­ 
  
-1.Ñ¡ÔñºÏÊÊµÄĞÂ°æ±¾ 
+1.é€‰æ‹©åˆé€‚çš„æ–°ç‰ˆæœ¬ 
  
 ![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseN1.JPG)  
 
-2.´ò¿ª³ÌĞòÄ¿Â¼ 
+2.æ‰“å¼€ç¨‹åºç›®å½• 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse°²×°2.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseå®‰è£…2.JPG)  
 
-3.Ñ¡Ôñ¹¤×÷Ä¿Â¼ 
+3.é€‰æ‹©å·¥ä½œç›®å½• 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse°²×°3.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseå®‰è£…3.JPG)  
 
-4.¿ªÊ¼½çÃæ 
+4.å¼€å§‹ç•Œé¢ 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse°²×°4.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseå®‰è£…4.JPG)  
 
-5.°²×°¼ì²éEGIT  
+5.å®‰è£…æ£€æŸ¥EGIT  
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse°²×°5.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseå®‰è£…5.JPG)  
 
-6.Íê³É 
+6.å®Œæˆ 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse°²×°6.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseå®‰è£…6.JPG)
 
 
-Èı.ÅäÖÃGIT ECLIPSE»·¾³
+ä¸‰.é…ç½®GIT ECLIPSEç¯å¢ƒ
 
-1.FileÖĞÑ¡Ôñimportµ¼Èë
+1.Fileä¸­é€‰æ‹©importå¯¼å…¥
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit1.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git1.JPG)
 
-2.Ñ¡ÔñURIÔ´
+2.é€‰æ‹©URIæº
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit2.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git2.JPG)
 
-3.µ¼ÈëÏîÄ¿µØÖ·²¢ÌîĞ´ÕË»§
+3.å¯¼å…¥é¡¹ç›®åœ°å€å¹¶å¡«å†™è´¦æˆ·
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit3.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git3.JPG)
 
-4.Ñ¡ÔñÄ¿Â¼
+4.é€‰æ‹©ç›®å½•
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit4.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git4.JPG)
 
-5.Ñ¡Ôñ±¾µØÄ¿±êÄ¿Â¼
+5.é€‰æ‹©æœ¬åœ°ç›®æ ‡ç›®å½•
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit5.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git5.JPG)
 
-6.µ¼ÈëÏîÄ¿
+6.å¯¼å…¥é¡¹ç›®
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit6.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git6.JPG)
 
-7.Ñ¡ÔñÒÑÓĞÏîÄ¿
+7.é€‰æ‹©å·²æœ‰é¡¹ç›®
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit7.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git7.JPG)
 
-8.Íê³É
+8.å®Œæˆ
 
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseÅäÖÃgit8.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseé…ç½®git8.JPG)
 
-### ¿ÉÄÜĞèÒªµÄ°²×°°ü£º
+### å¯èƒ½éœ€è¦çš„å®‰è£…åŒ…ï¼š
 
-ÏÂÔØJDK Java ÓïÑÔµÄÈí¼ş¿ª·¢¹¤¾ß°ü  
+ä¸‹è½½JDK Java è¯­è¨€çš„è½¯ä»¶å¼€å‘å·¥å…·åŒ…  
 http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
-ÏÂÔØGIT Ãâ·Ñ¡¢¿ªÔ´µÄ·Ö²¼Ê½°æ±¾¿ØÖÆÏµÍ³  
+ä¸‹è½½GIT å…è´¹ã€å¼€æºçš„åˆ†å¸ƒå¼ç‰ˆæœ¬æ§åˆ¶ç³»ç»Ÿ  
 http://git-scm.com/download/
 
-ÏÂÔØ Eclipse ¿ª·ÅÔ´´úÂëµÄ¡¢»ùÓÚJavaµÄ¿ÉÀ©Õ¹¿ª·¢Æ½Ì¨  
+ä¸‹è½½ Eclipse å¼€æ”¾æºä»£ç çš„ã€åŸºäºJavaçš„å¯æ‰©å±•å¼€å‘å¹³å°  
 http://www.eclipse.org/downloads/
 
-ECLIPSEÁíÍâĞèÒªµÄ²å¼ş£º  
-Èç¹ûÓÒ¼üÃ»ÓĞ£¬ÔòÔÚHELPÊĞ³¡ÖĞËÑË÷
+ECLIPSEå¦å¤–éœ€è¦çš„æ’ä»¶ï¼š  
+å¦‚æœå³é”®æ²¡æœ‰ï¼Œåˆ™åœ¨HELPå¸‚åœºä¸­æœç´¢
  
 WikiText;
 
 wordwarp:
 Help -> Install New Software 
-workwithÌîĞ´ÈçÏÂĞÅÏ¢:
+workwithå¡«å†™å¦‚ä¸‹ä¿¡æ¯:
 http://ahtik.com/eclipse-update/ 
-Ñ¡ÔñWORDWARP²¢°²×°¡£
+é€‰æ‹©WORDWARPå¹¶å®‰è£…ã€‚

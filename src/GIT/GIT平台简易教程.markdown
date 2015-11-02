@@ -11,7 +11,7 @@
 
 1.安装JDK 选择合适的版本 
  
-![](D:\workspace\test\src\jdk安装1.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/master/src/GIT/eclipseN1.JPG)  
 
 2.点击下一步 
  

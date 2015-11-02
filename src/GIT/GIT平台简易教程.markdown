@@ -11,23 +11,23 @@
 
 1.安装JDK 选择合适的版本 
  
-![](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/master/src/GIT/eclipseN1.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk安装1.JPG)  
 
 2.点击下一步 
  
-![](D:\workspace\test\src\jdk安装2.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk安装2.JPG)  
 
 3.选择安装目录（这里是默认目录）  
 
-![](D:\workspace\test\src\jdk安装3.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk安装3.JPG)  
 
 4.安装JRE  
 
-![](D:\workspace\test\src\jdk安装4.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk安装4.JPG)  
 
 5.完成 
  
-![](D:\workspace\test\src\jdk安装5.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/jdk安装5.JPG)
 
 
 二.ECLIPSE
@@ -37,62 +37,62 @@ EGIT已加入新版Eclipse中
  
 1.选择合适的新版本 
  
-![](D:\workspace\test\src\eclipse安装1.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipseN1.JPG)  
 
 2.打开程序目录 
  
-![](D:\workspace\test\src\eclipse安装2.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse安装2.JPG)  
 
 3.选择工作目录 
  
-![](D:\workspace\test\src\eclipse安装3.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse安装3.JPG)  
 
 4.开始界面 
  
-![](D:\workspace\test\src\eclipse安装4.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse安装4.JPG)  
 
 5.安装检查EGIT  
 
-![](D:\workspace\test\src\eclipse安装5.JPG)  
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse安装5.JPG)  
 
 6.完成 
  
-![](D:\workspace\test\src\eclipse安装6.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse安装6.JPG)
 
 
 三.配置GIT ECLIPSE环境
 
 1.File中选择import导入
 
-![](D:\workspace\test\src\eclipse配置git1.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git1.JPG)
 
 2.选择URI源
 
-![](D:\workspace\test\src\eclipse配置git2.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git2.JPG)
 
 3.导入项目地址并填写账户
 
-![](D:\workspace\test\src\eclipse配置git3.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git3.JPG)
 
 4.选择目录
 
-![](D:\workspace\test\src\eclipse配置git4.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git4.JPG)
 
 5.选择本地目标目录
 
-![](D:\workspace\test\src\eclipse配置git5.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git5.JPG)
 
 6.导入项目
 
-![](D:\workspace\test\src\eclipse配置git6.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git6.JPG)
 
 7.选择已有项目
 
-![](D:\workspace\test\src\eclipse配置git7.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git7.JPG)
 
 8.完成
 
-![](D:\workspace\test\src\eclipse配置git8.JPG)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/eclipse配置git8.JPG)
 
 ### 可能需要的安装包：
 

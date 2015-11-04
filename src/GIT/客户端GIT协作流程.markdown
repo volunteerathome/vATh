@@ -4,4 +4,4 @@
 4.与主干同步
 5.合并commit改变
 6.推送到远程仓库
-7.Pull Request审核合并
+7.Pull Request审核合并请求

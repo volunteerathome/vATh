@@ -25,7 +25,8 @@ ECLIPSE Windows>show view>Git Repositories
 
 4.与主干同步
 经常保持同步；
-
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/保持同步1.png)
+![](https://gitcafe.com/volunteerAThome/volunteerAThome/raw/master/src/GIT/保持同步2.png)
 5.合并commit改变
 可能产生很多commit提交；
 

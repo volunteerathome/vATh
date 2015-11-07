@@ -1,0 +1,78 @@
+Crowdsourcing Drug Discovery
+
+Denise Myshko
+
+Crowdsourcing efforts in drug discovery aim to use the power of the crowd to
+look for potential hits and screen molecules against targets. One such effort
+is World Community Grid, which was conceived and is managed by IBM.
+Hosted on IBM’s SoftLayer cloud technology, World Community Grid provides free
+computing power to scientists by harnessing the unused, surplus cycle time of a
+number of volunteers’ computers and mobile devices from all over the globe.
+World Community Grid software receives, completes, and returns small
+computational assignments to scientists.
+
+Volunteers download a program from the site that runs in the background. When
+the volunteer’s computer is not doing anything else it can work on a small
+piece of a bigger research problem.
+
+“Collectively, over many machines around the world that donate their space and
+time this way, we form a very large super computer,” says Dr. Viktors Berstis,
+lead scientist for the World Community Grid. “We give this computing power to
+researchers free of charge. It’s been a good formula for getting research done
+that otherwise might not be attempted because of financial barriers.”
+
+Dr. Berstis says the Grid was created in 2003 after a small test study to
+screen for drug candidates for small pox. Since then, more than 3 million
+computers and mobile devices used by about 700,000 people globally and 460
+institutions from 80 countries have contributed virtual supercomputing power.
+
+“People around the world are interested in science and health,” says Joseph
+Jasinski, Ph.D., an engineer and executive for IBM’s Smarter Healthcare and
+Life Sciences division. “People can volunteer their machine for whatever
+purpose or they can pick a specific project to work on. People form teams. We
+give them points and they track how much they’ve contributed to a research
+project.”
+
+Since the program’s inception, World Community Grid has powered nearly two
+dozen research projects, donating more than 1 million years of computing time
+worth $400 million to scientific research and enabled important scientific
+advances in areas as diverse as cancer research, AIDS treatments, genetic
+mapping, solar energy, and ecosystem preservation. More than 2.4 billion
+research tasks have been completed.
+
+It has enabled multiple breakthroughs, such as helping the Chiba Cancer Center
+in Japan discover seven new drug candidates to fight childhood neuroblastoma.
+
+The Scripps Research Institute’s Fight AIDS@Home project was the second project
+to be launched on the World Community Grid. FightAIDS@Home, which had been run
+independently by the Olson Laboratory since 2002, joined the World Community
+Grid in November 2005. This effort not only aims to discover new drugs, but
+also increase the knowledge around the structural biology of AIDS. In addition,
+researchers are studying the mechanisms of multi-drug-resistance that the super
+bugs of HIV use to escape the current anti-AIDS drugs.
+
+“We haven’t analyzed all of the data yet, but we have had successes from a
+scientific point of view,” Dr. Olson says. “Most of the computations that we’ve
+run were focused on the HIV protease protein. The project did produce a
+chemical that could, in fact, be an anti-HIV drug. But market forces are not
+open to another protease inhibitor similar to those already available.”
+
+Dr. Olson says Scripps is now looking for other footholds on the protease
+protein that could disrupt its function in a different way, attaching at an
+area that is distant from the active site of the protein.
+
+“We are in collaboration with crystallographers and virologists who have
+identified and looked at a number of compounds that are currently being
+evaluated,” Dr. Olson says. “We have found new sites and new binders but don’t
+know how functionally effective they will be.”
+
+Scripps has several other projects being researched via the Grid. In June 2011,
+Scripps submitted a proposal to IBM to create a new project on the World
+Community Grid. This project is called the Global Online Fight Against Malaria.
+In December 2014, Scripps began using the World Community Grid to screen
+chemical compounds to identify new drug leads for treating Ebola.
+
+“In collaboration with the Ollmann-Saphire Lab, we’re focusing on a number of
+potential targets for Ebola,” Dr. Olson says. “The first targets we looked at
+didn’t have very druggable sites. So now we’ve started on a second target,
+which is actually a known enzyme, and should be more promising.”

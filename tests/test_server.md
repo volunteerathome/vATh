@@ -1,4 +1,4 @@
-[1号测试机](http://volunteerathome.hicp.net:58056/)
-[v@h](http://volunteerathome.hicp.net:58056/test/index.php)
+[1号测试机](http://volunteerathome.hicp.net:24648)
+[v@h](http://volunteerathome.hicp.net:24648/test/)
 
-[2号测试机](http://volunteerathome.hicp.net:12350/)
+[2号测试机](vath.xicp.cn)

@@ -1,0 +1,111 @@
+# Translation file for Transifex.
+# Copyright (C) 2007-2013 Indifex Ltd.
+# This file is distributed under the same license as the Transifex package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: 志愿者之家\n"
+"Report-Msgid-Bugs-To: https://github.com/transifex/transifex/issues\n"
+"POT-Creation-Date: 2013-04-12 07:10+0000\n"
+"PO-Revision-Date: 2015-11-06 14:33+0000\n"
+"Last-Translator: Gavin\n"
+"Language-Team: English (http://www.transifex.com/volunteerathome/zhi-yuan-zhe-zhi-jia/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wizard/demo.py:10
+msgid "This demo translation file was created by 'volunteercomputing'."
+msgstr "This demo translation file was created by 'volunteercomputing'."
+
+#: wizard/demo.py:11
+msgid ""
+"It seems he is trying to learn how he can localize things using Transifex."
+msgstr "It seems he is trying to learn how he can localize things using Transifex."
+
+#: wizard/demo.py:12 wizard/demo.py:195
+msgid "This is cool. Super cool!"
+msgstr "This is cool. Super cool!"
+
+#: wizard/demo.py:15
+msgid "There are a bunch of nice features on Transifex."
+msgstr "There are a bunch of nice features on Transifex."
+
+#: wizard/demo.py:16
+msgid ""
+"The online editor is one of them. With it you can translate content right "
+"away and get your translation process going at the pace you develop content."
+msgstr "The online editor is one of them. With it you can translate content right away and get your translation process going at the pace you develop content."
+
+#: wizard/demo.py:20
+#, python-format
+msgid ""
+"The editor has validations that are applied for every string that is saved. "
+"Try to save this string without the %(correct)s placeholder/argument and you"
+" will see."
+msgstr "The editor has validations that are applied for every string that is saved. Try to save this string without the %(correct)s placeholder/argument and you will see."
+
+#. Hey there, you can replace 'XXXXXXX' with the translation for 'comment'
+#: wizard/demo.py:26
+msgid ""
+"Do you know the editor also supports comments from developers added to the "
+"code? Checkout the 'Developer note' bellow the translation area of the "
+"editor and find out the content of the 'XXXXXXX'."
+msgstr "Do you know the editor also supports comments from developers added to the code? Checkout the 'Developer note' bellow the translation area of the editor and find out the content of the 'XXXXXXX'."
+
+#: wizard/demo.py:30
+msgid ""
+"The next string is an example of a pluralized string and usually you should "
+"translate it multiple times. This is indicated by boxes that appear on the "
+"top-left of the text areas."
+msgstr "The next string is an example of a pluralized string and usually you should translate it multiple times. This is indicated by boxes that appear on the top-left of the text areas."
+
+#: wizard/demo.py:34
+#, python-format
+msgid "You have translated %(number)s demo file."
+msgid_plural "You have translated %(number)s demo files."
+msgstr[0] "You have translated %(number)s demo file."
+msgstr[1] "You have translated %(number)s demo files."
+
+#. Let's change a bit the subject and translate about formats :)
+#: wizard/demo.py:38
+msgid "Transifex has support for the most popular file formats."
+msgstr "Transifex has support for the most popular file formats."
+
+#: wizard/demo.py:41
+msgid ""
+"This demo translation file is using the PO (gettext) format. But as you can "
+"see, you don't really notice it at the editor. As a translator, you in fact "
+"shouldn't be bothered about it."
+msgstr "This demo translation file is using the PO (gettext) format. But as you can see, you don't really notice it at the editor. As a translator, you in fact shouldn't be bothered about it."
+
+#: wizard/demo.py:44
+msgid ""
+"If you have translated all the previous strings so far, it should be enough "
+"to give you an idea on how the editor works. Right? :)"
+msgstr "If you have translated all the previous strings so far, it should be enough to give you an idea on how the editor works. Right? :)"
+
+#: wizard/demo.py:45
+msgid ""
+"Don't forget to check the statistics of the demo project in your dashboard!"
+msgstr "Don't forget to check the statistics of the demo project in your dashboard!"
+
+#: wizard/demo.py:45
+msgid ""
+"Everything you translated so far will be reflected at the statistics bars of"
+" your project page."
+msgstr "Everything you translated so far will be reflected at the statistics bars of your project page."
+
+#. https://www.transifex.com/tour/
+#: wizard/demo.py:46
+msgid ""
+"We hope you enjoyed the editor and don't hesitate to checkout the Tour Page "
+"of Transifex for more info."
+msgstr "We hope you enjoyed the editor and don't hesitate to checkout the Tour Page of Transifex for more info."
+
+#: wizard/views.py:47
+msgid "Thank you for using Transifex."
+msgstr "Thank you for using Transifex."

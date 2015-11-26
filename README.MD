@@ -5,13 +5,21 @@
 <img src="http://1.equn.sinaapp.com/mp.equn.jpg" alt="equn"/>
 
 ------
-#equn 文档协作编辑
 
+#equn 文档协作编辑
 ------
 
-#关于equn:
+Your participation to vATh development is very welcome!
 
-详见项目介绍。
+You may participate in the following ways:
+
+[Report IT](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/doc/internals/report-an-issueortickets.md)
+[Translation Workflow](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/doc/internals/translation-workflow.md)
+
+关于equn
+------
+
+详见项目介绍:
 
 https://github.com/volunteercomputing/equn/blob/master/项目介绍
 

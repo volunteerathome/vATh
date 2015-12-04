@@ -3,7 +3,7 @@ doc
 
 tc.jpg
 ------
-teamchina竞赛套路微信群 2015年12月11日 失效
+teamchina竞赛讨论微信群 2015年12月11日 失效
 
 vc.jpg
 ------

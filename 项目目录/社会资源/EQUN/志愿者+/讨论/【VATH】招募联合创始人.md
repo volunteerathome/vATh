@@ -71,3 +71,4 @@ https://gitcafe.com/volunteerAThome/volunteerAThome/blob/master/项目目录/社
 
 微信公众号
 ------
+http://mp.weixin.qq.com/s?__biz=MzA5NjQ2MjQwMA==&mid=400670671&idx=1&sn=e49f4a0e9e3e2f266136fe1978427ec7#rd

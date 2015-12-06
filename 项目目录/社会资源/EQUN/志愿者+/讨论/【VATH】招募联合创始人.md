@@ -1,4 +1,4 @@
-志愿者之家项目 volunteer@home
+志愿者之家项目 volunteer@home (VATH)
 
 拟招募5名联合创始人
 
@@ -13,3 +13,6 @@ http://equn.com/forum/thread-41417-1-1.html
 招募联合创始人
 ------
 https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/EQUN/志愿者+/讨论/【VATH】招募联合创始人.md
+
+微信公众号
+------

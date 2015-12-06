@@ -31,6 +31,10 @@ UTC/GMT +8 2015年12月11日 17:00:00止
 * 离开团队不会影响联合创始人身份(以非正式关系保持合作)
 * 其他合作伙伴的回馈(礼品等)
 
+计划与讨论
+------
+* 成立实体组织推广志愿计算(性质：民办非企业单位)
+
 ---
 
 项目简介
@@ -44,6 +48,10 @@ http://equn.com/forum/thread-41417-1-1.html
 招募联合创始人
 ------
 https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/EQUN/志愿者+/讨论/【VATH】招募联合创始人.md
+
+社区计划
+------
+https://gitcafe.com/volunteerAThome/volunteerAThome/blob/master/项目目录/社会资源/EQUN/志愿者+/社区计划/【EQUN】 2016-2020-十三五计划
 
 微信公众号
 ------

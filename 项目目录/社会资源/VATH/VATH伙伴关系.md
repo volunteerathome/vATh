@@ -25,3 +25,9 @@ VATH伙伴关系
 * [VATH伙伴关系](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/VATH/VATH伙伴关系.md)
 
 * [伙伴列表](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/VATH/伙伴关系/伙伴关系)
+
+* [合作伙伴列表](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/VATH/伙伴关系/合作伙伴关系)
+
+* [战略合作伙伴列表](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/VATH/伙伴关系/战略合作伙伴关系)
+
+* [全面战略合作伙伴列表](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/VATH/伙伴关系/全面战略合作伙伴关系)

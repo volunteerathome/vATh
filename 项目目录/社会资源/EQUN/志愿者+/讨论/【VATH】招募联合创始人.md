@@ -65,6 +65,10 @@ http://equn.com/forum/thread-41417-1-1.html
 ------
 https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/EQUN/志愿者+/讨论/【VATH】招募联合创始人.md
 
+联合创始人名单
+------
+https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/项目目录/社会资源/VATH/伙伴关系/联合创始人
+
 社区计划
 ------
 https://gitcafe.com/volunteerAThome/volunteerAThome/blob/master/项目目录/社会资源/EQUN/志愿者+/社区计划/【EQUN】 2016-2020-十三五计划

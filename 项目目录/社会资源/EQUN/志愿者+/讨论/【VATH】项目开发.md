@@ -1,24 +1,29 @@
-Hi!all.
+Hi all,
 
-First,sorry for my poor english.
+First,sorry for my poor English.
 
-I want to introduce myself,my english nickname is:gavin.h.
+I want to introduce myself,i am a Chinese boy,my English nickname is: Gavin.h.
 
-I'm joining seti@home since 2 Jul 2006,i also joined 2011 China Drumbeat Hackfest,i am a member of equn.org,which is new website of equn.com.
+I'm joining SETI@home since 2 Jul 2006,
+i also joined 2011 China Drumbeat Hackfest,
+i am a member of Equn.org,which is new website of Equn.com.
 
-I'm interesting in volunteercomputing.I have two quetions,it is about duty and anonymou.
+I'm interesting in volunteer computing.I have two questions,it is about duty and anonymous.
 
-I'm preparing to organize a group or a company,use BOINC to devlope a project,which project name is volunteer@home(vATh).
+I'm preparing to organize a group or a company,
+use BOINC to develop a project,which project name is volunteer@home(v AT h).
 
-We plan to spread the news of volunteercomputing in china,and devlope volunteer timing.
+We plan to spread the news of volunteer computing in china,and develop volunteer timing.
 
-Any idea or question are welcome,contact me through Email:859956006@qq.com.
+Any ideas or questions are welcome,contact me through Email:859956006@qq.com.
 
 Thanks!
 
 Regards
 
 Gavin.H
+
+---
 
 相关链接
 ------

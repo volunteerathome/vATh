@@ -1,0 +1,19 @@
+{
+  "name": "equn.org",
+  "description": "getting started with equn.org",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Gavin.H",
+    "email": "859956006@qq.com"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "0.10.36"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}

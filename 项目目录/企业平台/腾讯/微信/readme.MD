@@ -16,7 +16,7 @@
 
 
 志愿计算微信公众平台登陆地址：
-https://mp.weixin.qq.com/cgi-bin/loginpage?t=wxm2-login&lang=zh_CN
+https://mp.weixin.qq.com
 
 志愿计算微信公众平台期待大家加入！
 http://www.equn.com/forum/thread-40315-1-1.html

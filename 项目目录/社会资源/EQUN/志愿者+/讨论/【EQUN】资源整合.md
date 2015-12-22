@@ -10,6 +10,9 @@
 
 参考链接
 ------
+Wiki近期工作重点
+http://www.equn.com/forum/thread-37181-1-1.html
+
 申请启用CC版权机制
 http://www.equn.com/forum/thread-37909-1-1.html
 

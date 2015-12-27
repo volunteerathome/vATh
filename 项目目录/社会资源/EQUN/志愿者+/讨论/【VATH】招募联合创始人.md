@@ -1,4 +1,4 @@
-志愿者之家项目 volunteer@home (VATH) Recruit co-founder
+volunteer@home (VATH) Recruit co-founder
 
 拟招募5名联合创始人
 

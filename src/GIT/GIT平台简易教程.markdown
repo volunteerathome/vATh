@@ -115,3 +115,6 @@ Help -> Install New Software
 workwith填写如下信息:
 http://ahtik.com/eclipse-update/ 
 选择WORDWARP并安装。
+
+egit:
+http://download.eclipse.org/egit/updates

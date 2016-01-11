@@ -9,6 +9,8 @@
 #equn 文档协作编辑
 ------
 
+通过在Git平台上提交[Pull Request](https://gitcafe.com/volunteerAThome/volunteerAThome/blob/Develop/doc/internals/pullrequest.md)来贡献代码
+
 Your participation to vATh development is very welcome!
 
 You may participate in the following ways:

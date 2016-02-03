@@ -1,25 +1,24 @@
 <?php
-$hostname = SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT;
+$hostname = SAE_MYSQL_HOST_M;
 $dbuser = SAE_MYSQL_USER;
 $dbpass = SAE_MYSQL_PASS;
 $dbname = SAE_MYSQL_DB;
-$con =  mysql_connect($hostname,$dbuser,$dbpass);//连接sql
+$dbport = SAE_MYSQL_PORT;
+$con =  mysqli_connect($hostname,$dbuser,$dbpass,$dbname,$dbport);//连接sql
 if (!$con)
   {
-  die('Could not connect: ' . mysql_error());
+  die('Could not connect: ' .mysql_error());
   }
 
-mysql_select_db("app_evevm", $con);//选择数据库
+mysqli_select_db($con,"app_3a3online");//选择数据库
 
-$sql="INSERT INTO Evm (Sale,Buy,Name,word)//sql创建一个表，并且填充字段的命令
-VALUES
-('$_POST[Sale]','$_POST[Buy]','$_POST[Name]','$_POST[word]')";
+$sql="INSERT INTO Market(sale,buy,price,word)VALUES('$_POST[sale]','$_POST[buy]','$_POST[price]','$_POST[word]')";
 
-if (!mysql_query($sql,$con))
+if (!mysqli_query($con,$sql))
   {
-  die('Error: ' . mysql_error());
+  die('Error: ' .mysqli_error($con));
   }
 echo "1 record added";
 
-mysql_close($con)
+mysqli_close($con)
 ?>

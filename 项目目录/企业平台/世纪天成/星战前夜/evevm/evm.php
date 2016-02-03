@@ -1,11 +1,11 @@
 <html>
 <body>
 <meta http-equiv="Content-Type" content="text/html; charset=utf8">
-<form action="insertevm.php" method="post">
-卖: <input type="text" name="sale" />
-买: <input type="text" name="buy" />
-ID: <input type="text" name="name" />
-发言:<input type="text" name="word" />
+<form action="insert.php" method="post">
+Sale: <input type="int" name="sale" />
+Buy: <input type="int" name="buy" />
+Price: <input type="int" name="price" />
+Word:<input type="text" name=" word" />
 <input type="submit" />
 </form>
 

@@ -1,39 +1,41 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf8">//申明编码格式
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 <?php
 
-$hostname = SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT;
+$hostname = SAE_MYSQL_HOST_M;
 $dbuser = SAE_MYSQL_USER;
 $dbpass = SAE_MYSQL_PASS;
 $dbname = SAE_MYSQL_DB;
-$con =  mysql_connect($hostname,$dbuser,$dbpass);//连接sql
+$dbport = SAE_MYSQL_PORT;
+$con =  mysqli_connect($hostname,$dbuser,$dbpass,$dbname,$dbport);//连接sql
+$mysqli = new mysqli($hostname,$dbuser,$dbpass,$dbname,$dbport);
 
 if (!$con)
   {
-  die('Could not connect: ' . mysql_error());
+  die('Could not connect: ' . mysqli_error());
   }
 
-mysql_select_db("app_evevm", $con);//从sql中选择数据库
+mysqli_select_db($con,"app_3a3online");//从sql中选择数据库
 
-$result = mysql_query("SELECT * FROM Evm");
+$result = $mysqli->query("SELECT * FROM Market");
 
 echo "<table border='1'>
 <tr>
-<th>卖</th>
-<th>买</th>
-<th>ID</th>
-<th>发言</th>
+<th>sale</th>
+<th>buy</th>
+<th>price</th>
+<th>word</th>
 </tr>";
 
-while($row = mysql_fetch_array($result))
+while($row = mysqli_fetch_array($result))
   {
   echo "<tr>";
   echo "<td>" . $row['sale'] . "</td>";
   echo "<td>" . $row['buy'] . "</td>";
-  echo "<td>" . $row['name'] . "</td>";
+  echo "<td>" . $row['price'] . "</td>";
   echo "<td>" . $row['word'] . "</td>";
   echo "</tr>";
   }
 echo "</table>";
 
-mysql_close($con);
+mysqli_close($con);
 ?>

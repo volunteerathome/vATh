@@ -2,11 +2,17 @@ eve星际议会
 ---
 ingame channel：【eve星际议会】
 
+[官网介绍](http://evewiki.tiancity.com/index.php?title=Eve%E6%98%9F%E9%99%85%E8%AE%AE%E4%BC%9A)
+
 [首次会议](https://github.com/volunteerathome/vATh/blob/Develop/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E4%B8%96%E7%BA%AA%E5%A4%A9%E6%88%90/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C/eve%E6%98%9F%E9%99%85%E8%AE%AE%E4%BC%9A/%E6%8F%90%E6%A1%88/2016/%E9%A6%96%E6%AC%A1%E4%BC%9A%E8%AE%AE.md)
+
 2016-5-1
 
 [第二次会议](https://github.com/volunteerathome/vATh/blob/Develop/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E4%B8%96%E7%BA%AA%E5%A4%A9%E6%88%90/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C/eve%E6%98%9F%E9%99%85%E8%AE%AE%E4%BC%9A/%E6%8F%90%E6%A1%88/2016/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E6%8F%90%E6%A1%88.md)
+
 2016-6-1
 
 [第三次会议](https://github.com/volunteerathome/vATh/blob/Develop/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E4%B8%96%E7%BA%AA%E5%A4%A9%E6%88%90/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C/eve%E6%98%9F%E9%99%85%E8%AE%AE%E4%BC%9A/%E6%8F%90%E6%A1%88/2016/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BC%9A%E8%AE%AE%E7%AD%96%E5%88%92.md)
-2016-7-1
+
+2016-7-1(筹备)
+

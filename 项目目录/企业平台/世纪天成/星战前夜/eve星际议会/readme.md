@@ -37,3 +37,5 @@ eve玩家专属的频道，草根套餐式众筹融合交流会，已举办2次�
 [【ECF】【EVE星际议会】线上通讯2016](http://bbs.eve-china.com/forum.php?mod=viewthread&tid=666665)
 
 [【ECF】【星战前夜】草根剧情基础知识2016](http://bbs.eve-china.com/forum.php?mod=viewthread&tid=666666)
+
+[【eve晨曦】【十周年】【独孤九舰】合作招募](http://bbs.eve-china.com/forum.php?mod=viewthread&tid=667055)

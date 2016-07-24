@@ -1,7 +1,6 @@
 【EQUN】网络游戏中的超远程通讯技术与现实世界
 
-EVE新伊甸起源日志：超远程通讯技术的竞赛
-[code]http://mp.weixin.qq.com/s?__biz=MjM5ODAzNzAwMA==&mid=401782876&idx=1&sn=964f4809107dec7f55b9ae4c58fbe245&scene=0&key=ff7411024a07f3eba685812960dcf0c557556b59f5a3fe519dffb3251b1b77d12e9b9829bbba460bf4b757cf391885c[/code]
+[EVE新伊甸起源日志：超远程通讯技术的竞赛](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNzAwMA==&mid=401782876&idx=1&sn=964f4809107dec7f55b9ae4c58fbe245&scene=0&key=ff7411024a07f3eba685812960dcf0c557556b59f5a3fe519dffb3251b1b77d12e9b9829bbba460bf4b757cf391885c)
 
 现实世界里的通讯是多种多样的，主要体现在载体和方式的不同。以人为例：神经控制，喉咙发声，动嘴说话，耳朵收听。
 人们的生活离不开通讯交流，视觉，触觉，听觉等都是人体从外界获取信息的方式。电子信息社会的通讯信息量已超越以往，越来越多的信息被使用。

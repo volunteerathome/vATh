@@ -1,0 +1,1 @@
+[初入eve](http://eve.tiancity.com/homepage/event/novice/pg01.html)

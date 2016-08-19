@@ -19,4 +19,8 @@
 
 参考
 ---
+志愿北京 志愿计算 http://www.bv2008.cn/app/org/view.php?id=25485857
+
+【志愿计算千聊直播间】http://m.qlchat.com/live/90000099014687.htm
+
 [讨论] 论坛基金会主题帖 http://equn.com/forum/thread-41255-1-1.html

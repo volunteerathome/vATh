@@ -19,7 +19,7 @@
 
 参考
 ---
-志愿北京 志愿计算 http://www.bv2008.cn/app/org/view.php?id=25485857
+志愿北京 昌平志愿计算团队 http://www.bv2008.cn/app/org/view.php?id=25485857
 
 【志愿计算千聊直播间】http://m.qlchat.com/live/90000099014687.htm
 

@@ -35,3 +35,5 @@
 【志愿计算千聊直播间】http://m.qlchat.com/live/90000099014687.htm
 
 [讨论] 论坛基金会主题帖 http://equn.com/forum/thread-41255-1-1.html
+
+[【千聊直播】活动邀请函](http://mp.weixin.qq.com/s?__biz=MzA5NjQ2MjQwMA==&mid=2649462823&idx=1&sn=183915a56b68a4f721b814fe858d113d&scene=4#wechat_redirect)

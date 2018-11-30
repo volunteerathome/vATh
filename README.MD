@@ -2,7 +2,6 @@
 ------
 
 #微信公众平台
-<img src="http://1.equn.sinaapp.com/mp.equn.jpg" alt="equn"/>
 
 ------
 
@@ -24,11 +23,6 @@ You may participate in the following ways:
 详见项目介绍:
 
 https://github.com/volunteercomputing/equn/blob/master/项目介绍
-
----
-
-#vath：
-<img src="http://1.equn.sinaapp.com/3-9090.jpg" alt="vath"/>
 
 ---
 
